@@ -1,5 +1,8 @@
-#Progress:
--Codebase setup completed
+# Progress:
+- Codebase setup completed
+- UI for dashboard
+- Added Bomb finance summary
+- Added Bond Transactions 
 
 # 🪦Welcome to the Bomb.money ecosystem🪦
 
