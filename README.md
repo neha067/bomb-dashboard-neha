@@ -1,9 +1,18 @@
+# **Investment-Dashboard**
+## LiveServerLink:
+## 🔗 https://bomb-dashboard-neha.netlify.app/
+
 # Progress:
 - Codebase setup completed
 - UI for dashboard
 - Added Bomb finance summary
 - Added Bond Transactions 
 - Integrated 'Invest'(dashboard) in Nav->Earn
+
+### Screenshot
+
+![Desktop](./invest.jpg)
+![Desktop](./dashboard.jpg)
 
 # 🪦Welcome to the Bomb.money ecosystem🪦
 
