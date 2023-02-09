@@ -1,5 +1,9 @@
-#Progress:
--Codebase setup completed
+# Progress:
+- Codebase setup completed
+- UI for dashboard
+- Added Bomb finance summary
+- Added Bond Transactions 
+- Integrated 'Invest'(dashboard) in Nav->Earn
 
 # 🪦Welcome to the Bomb.money ecosystem🪦
 
